@@ -20,10 +20,11 @@ A fun, animated **Tic Tac Toe** game built with **Python (Flask)** on the backen
 ---
 
 ## 🎥 Demo
+Main Menu
+![Main Menu](static/images/home.png)
+Game Board
+![Game Board](static/images/game.png)
 
-![Game Screenshot](images/game_screenshot.png)
-
-*(Replace above path with your real screenshot image in `images/` folder.)*
 
 ---
 
